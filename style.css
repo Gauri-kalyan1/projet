@@ -1,0 +1,39 @@
+body{
+    background: rgb(209, 153, 255);
+}
+.header_div{
+    background: white;
+    color: violet;
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    background: rgb(188, 106, 255);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid lightgrey;
+}
+
+.main_div label{
+    background: lightgrey;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(209, 153, 255);
+}
+
+#camera{
+    border: 2px solid lightgrey;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px rgb(209, 153, 255);
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    border: 1px solid;
+}
